@@ -2,7 +2,7 @@ github readme
 
 <h1 align="center">Hi 👋, I'm Gerson Antonio</h1>
 <h3 align="center">A zealous Software Engineer</h3>
-<img alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" align="right" width="40" height="40"/> </a> <a 
+<img alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" align="right" width="400" height="400"/> </a> <a 
 
 
 
